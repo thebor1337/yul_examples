@@ -4,4 +4,4 @@ This project includes examples of working with Inline Assembly in Solidity Contr
 
 While many of the algorithms in this project can be significantly improved, the focus was on understanding the underlying principles of working with Solidity.
 
-The project is inspired by JEFFREY SCHOLZ's course https://www.udemy.com/course/advanced-sOLIDITY-YUL-AL-SSEMBLY/ and its repository https://github.com/rareeskills/udemy-yul-code
+The project is inspired by Jeffrey Scholz's course https://www.udemy.com/course/advanced-solidity-yul-and-assembly/ and its repository https://github.com/RareSkills/Udemy-Yul-Code . Thank you so much for the course!
